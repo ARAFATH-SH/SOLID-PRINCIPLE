@@ -1,0 +1,14 @@
+D:\SOLID\LSP\bin\Debug\net10.0\LSP.exe
+D:\SOLID\LSP\bin\Debug\net10.0\LSP.deps.json
+D:\SOLID\LSP\bin\Debug\net10.0\LSP.runtimeconfig.json
+D:\SOLID\LSP\bin\Debug\net10.0\LSP.dll
+D:\SOLID\LSP\bin\Debug\net10.0\LSP.pdb
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.AssemblyInfoInputs.cache
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.AssemblyInfo.cs
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.csproj.CoreCompileInputs.cache
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.dll
+D:\SOLID\LSP\obj\Debug\net10.0\refint\LSP.dll
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.pdb
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.genruntimeconfig.cache
+D:\SOLID\LSP\obj\Debug\net10.0\ref\LSP.dll

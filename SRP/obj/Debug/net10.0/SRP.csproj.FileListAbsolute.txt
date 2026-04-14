@@ -1,0 +1,14 @@
+D:\SOLID\SRP\bin\Debug\net10.0\SRP.exe
+D:\SOLID\SRP\bin\Debug\net10.0\SRP.deps.json
+D:\SOLID\SRP\bin\Debug\net10.0\SRP.runtimeconfig.json
+D:\SOLID\SRP\bin\Debug\net10.0\SRP.dll
+D:\SOLID\SRP\bin\Debug\net10.0\SRP.pdb
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.AssemblyInfoInputs.cache
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.AssemblyInfo.cs
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.csproj.CoreCompileInputs.cache
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.dll
+D:\SOLID\SRP\obj\Debug\net10.0\refint\SRP.dll
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.pdb
+D:\SOLID\SRP\obj\Debug\net10.0\SRP.genruntimeconfig.cache
+D:\SOLID\SRP\obj\Debug\net10.0\ref\SRP.dll
