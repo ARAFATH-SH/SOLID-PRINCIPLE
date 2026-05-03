@@ -12,3 +12,4 @@ D:\SOLID\LSP\obj\Debug\net10.0\refint\LSP.dll
 D:\SOLID\LSP\obj\Debug\net10.0\LSP.pdb
 D:\SOLID\LSP\obj\Debug\net10.0\LSP.genruntimeconfig.cache
 D:\SOLID\LSP\obj\Debug\net10.0\ref\LSP.dll
+D:\SOLID\LSP\obj\Debug\net10.0\LSP.sourcelink.json

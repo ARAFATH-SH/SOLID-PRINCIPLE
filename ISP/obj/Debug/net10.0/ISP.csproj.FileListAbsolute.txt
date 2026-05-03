@@ -1,0 +1,15 @@
+D:\SOLID\ISP\bin\Debug\net10.0\ISP.exe
+D:\SOLID\ISP\bin\Debug\net10.0\ISP.deps.json
+D:\SOLID\ISP\bin\Debug\net10.0\ISP.runtimeconfig.json
+D:\SOLID\ISP\bin\Debug\net10.0\ISP.dll
+D:\SOLID\ISP\bin\Debug\net10.0\ISP.pdb
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.AssemblyInfoInputs.cache
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.AssemblyInfo.cs
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.csproj.CoreCompileInputs.cache
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.sourcelink.json
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.dll
+D:\SOLID\ISP\obj\Debug\net10.0\refint\ISP.dll
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.pdb
+D:\SOLID\ISP\obj\Debug\net10.0\ISP.genruntimeconfig.cache
+D:\SOLID\ISP\obj\Debug\net10.0\ref\ISP.dll
