@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SOLID\\DIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\nagadpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:nagadpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\bkashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:bkashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\iinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:iinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|d:\\solid\\dip\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05415E70-E9A6-4A8E-8FB3-E66E67B323E4}|DIP.csproj|solutionrelative:ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\OrderService.cs",
+              "RelativeToolTip": "OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:33:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "IPaymentProcessor.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\IPaymentProcessor.cs",
+              "RelativeToolTip": "IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:54:04.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "IOrderRepository.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\IOrderRepository.cs",
+              "RelativeToolTip": "IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:54:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\INotificationService.cs",
+              "RelativeDocumentMoniker": "INotificationService.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\INotificationService.cs",
+              "RelativeToolTip": "INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:55:51.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInvoiceGenerator.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\IInvoiceGenerator.cs",
+              "RelativeDocumentMoniker": "IInvoiceGenerator.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\IInvoiceGenerator.cs",
+              "RelativeToolTip": "IInvoiceGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:56:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BkashPayment.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\BkashPayment.cs",
+              "RelativeDocumentMoniker": "BkashPayment.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\BkashPayment.cs",
+              "RelativeToolTip": "BkashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:57:49.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NagadPayment.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\NagadPayment.cs",
+              "RelativeDocumentMoniker": "NagadPayment.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\NagadPayment.cs",
+              "RelativeToolTip": "NagadPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:58:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "EmailNotification.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\EmailNotification.cs",
+              "RelativeToolTip": "EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:29:09.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:08:34.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "PdfGenerator.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\PdfGenerator.cs",
+              "RelativeToolTip": "PdfGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:30:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\SOLID\\DIP\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderRepository.cs",
+              "ToolTip": "D:\\SOLID\\DIP\\OrderRepository.cs",
+              "RelativeToolTip": "OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:27:27.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

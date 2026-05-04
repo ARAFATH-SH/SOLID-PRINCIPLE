@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOLID\\ISP\\ISP.csproj": {}
+    "D:\\SOLID\\DIP\\DIP.csproj": {}
   },
   "projects": {
-    "D:\\SOLID\\ISP\\ISP.csproj": {
+    "D:\\SOLID\\DIP\\DIP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOLID\\ISP\\ISP.csproj",
-        "projectName": "ISP",
-        "projectPath": "D:\\SOLID\\ISP\\ISP.csproj",
+        "projectUniqueName": "D:\\SOLID\\DIP\\DIP.csproj",
+        "projectName": "DIP",
+        "projectPath": "D:\\SOLID\\DIP\\DIP.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\SOLID\\ISP\\obj\\",
+        "outputPath": "D:\\SOLID\\DIP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,7 +44,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
