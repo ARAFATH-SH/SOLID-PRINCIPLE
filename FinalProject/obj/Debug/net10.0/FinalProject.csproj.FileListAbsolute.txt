@@ -1,0 +1,15 @@
+D:\SOLID\FinalProject\bin\Debug\net10.0\FinalProject.exe
+D:\SOLID\FinalProject\bin\Debug\net10.0\FinalProject.deps.json
+D:\SOLID\FinalProject\bin\Debug\net10.0\FinalProject.runtimeconfig.json
+D:\SOLID\FinalProject\bin\Debug\net10.0\FinalProject.dll
+D:\SOLID\FinalProject\bin\Debug\net10.0\FinalProject.pdb
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.AssemblyInfoInputs.cache
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.AssemblyInfo.cs
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.sourcelink.json
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.dll
+D:\SOLID\FinalProject\obj\Debug\net10.0\refint\FinalProject.dll
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.pdb
+D:\SOLID\FinalProject\obj\Debug\net10.0\FinalProject.genruntimeconfig.cache
+D:\SOLID\FinalProject\obj\Debug\net10.0\ref\FinalProject.dll
